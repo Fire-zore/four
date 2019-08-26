@@ -6,3 +6,4 @@ def qq():
     print("five")
     print("six")
     print("seven")
+    print("nine")
